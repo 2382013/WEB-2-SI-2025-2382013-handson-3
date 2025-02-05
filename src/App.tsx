@@ -18,10 +18,10 @@ function App() {
             <th>Email</th>
           </tr>
           <tr>
-            <td>Helena Onezia Lewi</td>
-            <td>2381003</td>
+            <td>Yessica TM Hutajulu</td>
+            <td>2382013</td>
             <td>Unai</td>
-            <td>2381003@unai.edu</td>
+            <td>2382013@unai.edu</td>
           </tr>
         </table>
       </div>
